@@ -2,6 +2,7 @@
 // Sample user credentials stored in JSON format
 const userCredentials = {
     "manu": "Manu@2005",
+    "cpc":"Mysore@123",
 };
 
 document.getElementById('loginForm').addEventListener('submit', function(event) {
